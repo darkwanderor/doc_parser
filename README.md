@@ -1,6 +1,6 @@
-# 🧠 Alertra: Intelligent Business Document Router & Alert System
+# 🧠 Doc_Parser: Intelligent Business Document Router & Alert System
 
-**Alertra** is a LangGraph-powered orchestration framework that ingests business documents and messages—PDFs, JSON payloads, and Emails—automatically classifies and summarizes them, and triggers downstream actions (CRM tickets, risk alerts) based on detected intent and anomalies. Built with Gemini-2.0-flash, LangGraph, FastAPI, and Redis.
+**Doc_Parser** is a LangGraph-powered orchestration framework that ingests business documents and messages—PDFs, JSON payloads, and Emails—automatically classifies and summarizes them, and triggers downstream actions (CRM tickets, risk alerts) based on detected intent and anomalies. Built with Gemini-2.0-flash, LangGraph, FastAPI, and Redis.
 
 ---
 
