@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+langchain
+langgraph
+redis
+python-multipart
+PyMuPDF
+pypdf
+google-generativeai
+streamlit
